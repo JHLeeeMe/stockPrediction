@@ -8,6 +8,7 @@ YAHOO FINANCE에서 제공되는 amazon 주가 데이터(csv file) RNN model에 
     tensorflow
     numpy
     pandas
+    matplotlib
 <br>
 
 ## RNN
