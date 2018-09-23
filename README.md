@@ -1,5 +1,5 @@
 # stockPrediction
-YAHOO FINANCE에서 제공되는 amazon 주가 데이터(csv file)을 RNN model에 학습시켜 다음날의 종가를 예측
+YAHOO FINANCE에서 제공되는 amazon 주가 데이터(csv file)을 RNN model에 학습시켜 다음날의 종가를 예측  
 ![amazon_finance](https://user-images.githubusercontent.com/35649392/45922985-6b955500-bf14-11e8-9c93-828cb5e41e72.jpg)
 <br>
 
@@ -11,6 +11,7 @@ YAHOO FINANCE에서 제공되는 amazon 주가 데이터(csv file)을 RNN model�
 
 ## model graph
 지난 7일간의 주식 정보를 이용해 다음날의 종가 예측 (MANY-TO-ONE)
+
 ![rnn_manytoone](https://user-images.githubusercontent.com/35649392/45923021-5a991380-bf15-11e8-9aae-4f56cf40b331.jpg)
 <br>
 
@@ -42,8 +43,7 @@ YAHOO FINANCE에서 제공되는 amazon 주가 데이터(csv file)을 RNN model�
 <br>
 ![stock_prediction_chart](https://user-images.githubusercontent.com/35649392/45922861-2ec85e80-bf12-11e8-91d2-8ec5a3a08cc0.jpg)
 <br>
-파란선이 실제, 빨간선이 예측
-<br>
+파란선이 실제, 빨간선이 예측  
 경향을 잘 따라간다.
 
 ## prediction
