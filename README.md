@@ -48,7 +48,7 @@ YAHOO FINANCE에서 제공되는 amazon 주가 데이터(csv file)을 RNN model�
 경향을 잘 따라간다.
 
 ## prediction
-가장 잘 학습됐다고 판단된 모델로 
+가장 잘 학습됐다고 판단된 모델로 예측 
 
 ![prediction](https://user-images.githubusercontent.com/35649392/45922678-c5465100-bf0d-11e8-834d-d5c3827b5bf3.jpg)
 ![amzn_finance](https://user-images.githubusercontent.com/35649392/45922677-c37c8d80-bf0d-11e8-96a0-fb3c3c0eba41.jpg)
