@@ -1,5 +1,5 @@
 # stockPrediction
-YAHOO FINANCE에서 제공되는 amazon주가 데이터(csv file)을 RNN model에 학습시켜 다음날의 종가를 예측한다.
+YAHOO FINANCE에서 제공되는 amazon 주가 데이터(csv file)을 RNN model에 학습시켜 다음날의 종가를 예측
 ![amazon_finance](https://user-images.githubusercontent.com/35649392/45922985-6b955500-bf14-11e8-9c93-828cb5e41e72.jpg)
 <br>
 
